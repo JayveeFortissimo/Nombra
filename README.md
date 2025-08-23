@@ -2,7 +2,7 @@
 
 
 <p>This project is all about band nombra monitoring and salary of members band arrangement</p>
-<p>I create this website is because of i need to upskill and for my band who help me alot and reason why im here in this position</p>
+<p>I create this website is because of i need to improve my skills in web and for my band who help me alot and reason why im here in this position</p>
 
 
 <h1>Tech Stack</h1>
