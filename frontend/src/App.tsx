@@ -1,10 +1,10 @@
+import Approuter from "./routes/Approuter"
 
 function App() {
 
-
   return (
     <>
-    Hello
+    <Approuter />
     </>
   )
 }
